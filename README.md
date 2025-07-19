@@ -1,5 +1,5 @@
 
-# tf_enrichment_lib
+# TF_lib
 
 An R helper library for discovering transcription-factor (TF) regulators of any hub-gene set and for comparing their expression in two bulk RNA-seq contrasts.
 
