@@ -110,7 +110,7 @@ MIT
 ## Citation
 
 If this library contributes to your research, please cite:
-Tondar A.https://github.com/Abtint/TF-Analysis-for-Hub-Genes. TF-Analysis-for-Hub-Genes. 
+Tondar A.https://github.com/Abtint/TF-Analysis-for-Hub-Genes. TF-Analysis-for-Hub-Genes. 2025
 
 
 ```
