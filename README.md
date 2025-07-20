@@ -11,6 +11,11 @@ Hub genes identified from network or pathway analyses often highlight core biolo
 `tf_enrichment_lib.R` wraps this end-to-end workflow—from CHEA3 queries to publication-ready figures—into a single, lightweight script.
 
 ---
+## Scripts in this repo
+
+TF_Analysis.R
+
+---
 
 ## Clone the repository  
 
